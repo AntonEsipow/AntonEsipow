@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Anton
-### I'm a Student, Developer, and Teacher!
+### I'm a Student and Developer!
 
 - 🌱 I’m currently learning **Android**
 
